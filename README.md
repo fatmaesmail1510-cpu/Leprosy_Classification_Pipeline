@@ -31,7 +31,7 @@ Run-to-run variation (retraining with different seeds) is as large as the differ
 | `Stage2_GradCAM_v2 (1).ipynb` | Stage 2 Grad-CAM maps on hold-out images |
 | `Stage2_Masking_Test (1).ipynb` | Masking test: Grad-CAM region vs. random region occlusion |
 | `Leprosy_Diagnostic_System (1).ipynb` | Demo pipeline that runs the three stages on one image |
-| `Leprosy_Supplementary_Data.zip` | Supplementary data (unzip it; it contains a `supp/` folder with its own `README.md`): split manifests, per-image probabilities, ablation runs, leakage checks, masking-test results |
+| `Leprosy_Supplementary_Data (1).zip` | Supplementary data (unzip it; it contains a `supp/` folder with its own `README.md`): split manifests, per-image probabilities, ablation runs, leakage checks, masking-test results |
 
 ## Data
 
